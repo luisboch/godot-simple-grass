@@ -2,14 +2,14 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/low_poly_grass_normal.png-af9c73a051a8876f18bb202279d017dd.stex"
+path="res://.import/low_poly_grass_normal.png-cdec46bb10a2e0fc077eee41c4567a8b.stex"
 
 [deps]
 
-source_file="res://enviroment/nature/grass/low_poly_grass_normal.png"
+source_file="res://assets/simple-grass/low_poly_grass_normal.png"
 source_md5="94b9b5eacc13399c04950822040c5a58"
 
-dest_files=[ "res://.import/low_poly_grass_normal.png-af9c73a051a8876f18bb202279d017dd.stex" ]
+dest_files=[ "res://.import/low_poly_grass_normal.png-cdec46bb10a2e0fc077eee41c4567a8b.stex" ]
 dest_md5="97d3519f2963b3826038fe5e555bd4ef"
 
 [params]
